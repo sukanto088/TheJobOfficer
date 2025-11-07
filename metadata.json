@@ -1,0 +1,5 @@
+{
+  "name": "TheJobofficer",
+  "description": "A modern job board where an admin can post daily job openings for various tech companies. Visitors can browse and view job details.",
+  "requestFramePermissions": []
+}
